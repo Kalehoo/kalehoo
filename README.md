@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **In nutshell I am:**
 <br>⚡ 37y old software developement student studying 2nd year in Savo Vocational School (Kuopio, Finland)
 <br>⚡ Mostly been developing with C#, PHP & HTML.
-<br>⚡ Been using SASS/CSS-customized Bootstrap (3-5.3.2) as CSS-framework, there where SQL-based databases using XAMPP as environment.
+<br>⚡ Mainly been using SASS/CSS-customized Bootstrap (3-5.3.2) as CSS-framework, there where SQL-based databases using XAMPP as environment.
 <br>⚡ Also been training some Golang, Javascript, Bash and Python writing working sripts with these.
 <br>⚡ Been fixing computers (HW/SW) since 6-years old.
 <br>⚡ From Linux side mostly been using Kali Linux.
