@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>⚡ Been fixing computers (HW/SW) since 6-years old.
 <br>⚡ From Linux side mostly been using Kali Linux.
 <br>👨 Fast learner, hard worker, multitasker but somewhat chaotic what comes to keeping my own stuff organized.
-<br>🌱 Currently studying Angular and planning to use LAMP as environment (Linux, Apache, MySql/MariaDB, PHP/Perl/Python).
+<br>🌱 Currently studying Angular using LAMP (Linux, Apache, MySql/MariaDB, PHP/Perl/Python) as environment built on Kali Linux.
 <br>🔭 Searching for internship in any business which needs fast learning, hard working frontened-coder and is possibly ready to provide more knowledge in backend.
 
 **Find me:**
