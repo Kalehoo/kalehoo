@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 Codewars:
 
-![image](https://www.codewars.com/users/Lauri%20Liukkonen/badges/large)
+![image](https://www.codewars.com/users/Lauri%20Liukkonen/badges/micro)
 
 **Find me:**
 <ul style="list-style-type:none;  ">
