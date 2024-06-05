@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 | Frontend etc.|Backend & tools |  Programs & patforms     |
 |    :---:     |     :---:      |     :---:     |
 | [![My Skills](https://skillicons.dev/icons?i=js,ts,angular,css,scss,bootstrap,tailwind,html&perline=3)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=php,go,nodejs,mysql,git,docker,nginx,npm&perline=3)](https://skillicons.dev)     | [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,kali,figma,windows,bash&perline=3)](https://skillicons.dev)    |
-| git diff     | git diff       | git diff      |
+
 
 **Find me:**
 <ul style="list-style-type:none;  ">
