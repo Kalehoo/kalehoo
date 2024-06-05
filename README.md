@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ![image](https://www.codewars.com/users/Lauri%20Liukkonen/badges/micro)
 
-**Some tools I use for developement**
+**Some tools I use for developement:**
 
 | Frontend etc.|Backend & tools |  Programs & patforms     |
 |    :---:     |     :---:      |     :---:     |
