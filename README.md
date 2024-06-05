@@ -27,9 +27,16 @@ Here are some ideas to get you started:
 <br>🌱 Currently studying Angular using LAMP (Linux, Apache, MySql/MariaDB, PHP/Perl/Python) as environment built on Kali Linux.
 <br>🔭 Searching for internship in any business which needs fast learning, hard working frontend-coder and is possibly ready to provide more knowledge in backend.
 
-Codewars:
+**Codewars:**
 
 ![image](https://www.codewars.com/users/Lauri%20Liukkonen/badges/micro)
+
+**Some tools I use for developement**
+
+| Frontend etc.|Backend & tools |  Programs & patforms     |
+|    :---:     |     :---:      |     :---:     |
+| [![My Skills](https://skillicons.dev/icons?i=js,ts,angular,css,scss,bootstrap,tailwind,html&perline=3)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=php,go,nodejs,mysql,git,docker,nginx,npm&perline=3)](https://skillicons.dev)     | [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,kali,figma,windows,bash&perline=3)](https://skillicons.dev)    |
+| git diff     | git diff       | git diff      |
 
 **Find me:**
 <ul style="list-style-type:none;  ">
